@@ -6,6 +6,6 @@ Proyecto final modulo 3
 
 
 
-**Avalos Aline**
-**Gonzalez Miguel**
-**Reyes Jairo**
+* **Avalos Aline**
+* **Gonzalez Miguel**
+* **Reyes Jairo**
